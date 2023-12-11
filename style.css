@@ -1,0 +1,12 @@
+.abc {
+    background-color: coral;
+    overflow: hidden;
+}
+
+.abc a {
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    margin: 20px;
+    padding: 20px;
+}
